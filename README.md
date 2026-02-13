@@ -1,2 +1,2 @@
 # lovable-to-html
-Convert React/TSX component files (from Lovable, Figma exports, or any React project) into static HTML/CSS/JS with pixel-perfect fidelity.
+Convert React/TSX component files (from Lovable, Figma exports, or any React project) into static HTML/CSS/JS with pixel-perfect fidelity. Use this skill whenever the user provides TSX files, a ZIP of React components, or asks to convert React/Lovable components to static HTML. Also trigger when the user says things like "convert my Lovable app", "export to static HTML", "make this TSX into HTML", or "I want a static version of my React project". The output must look identical to the original — zero visual drift, exact styles preserved.
